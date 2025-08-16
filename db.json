@@ -9,7 +9,14 @@
       "image": "https://bicyclenetwork.com.au/wp-content/uploads/2023/04/NCY-lanes-socials.png",
       "fakeVoteCount": 2,
       "verifiedVoteCount": 45,
-      "comments": ["Great initiative!", "Finally, safer cycling routes."]
+      "comments": [
+        {"commentor": "John", "comment": "Great initiative!", "date": "16/8/2025"},
+        {"commentor": "Emma", "comment": "Finally, safer cycling routes.", "date": "16/8/2025"},
+        {"commentor": "Lucas", "comment": "Hope they expand to other areas.", "date": "16/8/2025"},
+        {"commentor": "Sophia", "comment": "This will reduce traffic.", "date": "16/8/2025"},
+        {"commentor": "Liam", "comment": "Cyclists will love this.", "date": "16/8/2025"},
+        {"commentor": "Olivia", "comment": "Good for the environment!", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 2,
@@ -20,7 +27,14 @@
       "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2023/03/chocolate-bar-foil.jpg",
       "fakeVoteCount": 5,
       "verifiedVoteCount": 12,
-      "comments": ["Say it isn't so!", "Stocking up now."]
+      "comments": [
+        {"commentor": "Mia", "comment": "Say it isn't so!", "date": "16/8/2025"},
+        {"commentor": "Noah", "comment": "Stocking up now.", "date": "16/8/2025"},
+        {"commentor": "Ella", "comment": "This is serious!", "date": "16/8/2025"},
+        {"commentor": "James", "comment": "Chocolate lovers will panic.", "date": "16/8/2025"},
+        {"commentor": "Ava", "comment": "Hope prices don’t skyrocket.", "date": "16/8/2025"},
+        {"commentor": "Daniel", "comment": "Time to try alternatives.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 3,
@@ -31,7 +45,14 @@
       "image": "https://www.pawsupdogs.com/wp-content/uploads/2019/03/five-dogs.jpg",
       "fakeVoteCount": 0,
       "verifiedVoteCount": 88,
-      "comments": ["That's amazing!", "More celebrities should do this."]
+      "comments": [
+        {"commentor": "Isabella", "comment": "That's amazing!", "date": "16/8/2025"},
+        {"commentor": "Mason", "comment": "More celebrities should do this.", "date": "16/8/2025"},
+        {"commentor": "Amelia", "comment": "Love this gesture.", "date": "16/8/2025"},
+        {"commentor": "Henry", "comment": "Dogs deserve good homes.", "date": "16/8/2025"},
+        {"commentor": "Grace", "comment": "So heartwarming.", "date": "16/8/2025"},
+        {"commentor": "Jacob", "comment": "Respect for this actor.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 4,
@@ -42,7 +63,14 @@
       "image": "https://img.freepik.com/premium-photo/alien-ship-flies-modern-city-with-view-skyscrapers-visible-background_124507-157671.jpg",
       "fakeVoteCount": 73,
       "verifiedVoteCount": 4,
-      "comments": ["No way that's real.", "Photoshop strikes again."]
+      "comments": [
+        {"commentor": "Ethan", "comment": "No way that's real.", "date": "16/8/2025"},
+        {"commentor": "Harper", "comment": "Photoshop strikes again.", "date": "16/8/2025"},
+        {"commentor": "Alexander", "comment": "Looks fake to me.", "date": "16/8/2025"},
+        {"commentor": "Sofia", "comment": "Classic UFO hoax.", "date": "16/8/2025"},
+        {"commentor": "Jack", "comment": "Where’s the evidence?", "date": "16/8/2025"},
+        {"commentor": "Emily", "comment": "Not convinced at all.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 5,
@@ -53,7 +81,14 @@
       "image": "https://m-cdn.phonearena.com/images/article/152814-wide-two_1200/Global-smartphone-sales-return-to-growth-in-October-breaking-two-year-losing-streak.jpg?1700647090",
       "fakeVoteCount": 1,
       "verifiedVoteCount": 54,
-      "comments": ["I got one!", "Best phone I've used."]
+      "comments": [
+        {"commentor": "Benjamin", "comment": "I got one!", "date": "16/8/2025"},
+        {"commentor": "Chloe", "comment": "Best phone I've used.", "date": "16/8/2025"},
+        {"commentor": "Leo", "comment": "Impressive sales.", "date": "16/8/2025"},
+        {"commentor": "Lily", "comment": "I need to upgrade.", "date": "16/8/2025"},
+        {"commentor": "Matthew", "comment": "Looks sleek.", "date": "16/8/2025"},
+        {"commentor": "Zoe", "comment": "Can’t wait to try it.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 6,
@@ -64,7 +99,14 @@
       "image": "https://cdn.mos.cms.futurecdn.net/rYmjBZRV6oW5cPryewDLDH-1920-80.jpg",
       "fakeVoteCount": 0,
       "verifiedVoteCount": 35,
-      "comments": ["That's huge!", "Pumpkin pie for everyone."]
+      "comments": [
+        {"commentor": "David", "comment": "That's huge!", "date": "16/8/2025"},
+        {"commentor": "Hannah", "comment": "Pumpkin pie for everyone.", "date": "16/8/2025"},
+        {"commentor": "Ryan", "comment": "Unbelievable size.", "date": "16/8/2025"},
+        {"commentor": "Ella", "comment": "Record-breaking indeed.", "date": "16/8/2025"},
+        {"commentor": "Nathan", "comment": "Farmers are amazing.", "date": "16/8/2025"},
+        {"commentor": "Grace", "comment": "Wish I could see it.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 7,
@@ -75,7 +117,14 @@
       "image": "https://th.bing.com/th/id/R.7983548d47af62e8261f8ba41136b854?rik=z8owPG6UbH5y0w&riu=http%3a%2f%2fwww.theoldrobots.com%2fimages106%2fRestaurant_Robot-10.JPG&ehk=G2c9i426Is3OlH8EcMPAHw5PWU7wdKSA%2fqlTvyxmFhU%3d&risl=&pid=ImgRaw&r=0",
       "fakeVoteCount": 3,
       "verifiedVoteCount": 9,
-      "comments": ["Future is here!", "I miss human interaction."]
+      "comments": [
+        {"commentor": "Sophie", "comment": "Future is here!", "date": "16/8/2025"},
+        {"commentor": "Evan", "comment": "I miss human interaction.", "date": "16/8/2025"},
+        {"commentor": "Victoria", "comment": "Cool but strange.", "date": "16/8/2025"},
+        {"commentor": "Oliver", "comment": "Robots are taking over.", "date": "16/8/2025"},
+        {"commentor": "Scarlett", "comment": "Hope they work well.", "date": "16/8/2025"},
+        {"commentor": "Mason", "comment": "Mixed feelings.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 8,
@@ -86,7 +135,14 @@
       "image": "https://i2-prod.mirror.co.uk/incoming/article33674038.ece/ALTERNATES/s1200d/0_Oldest-cat-in-the-world-dies-aged-33.jpg",
       "fakeVoteCount": 0,
       "verifiedVoteCount": 64,
-      "comments": ["Happy birthday!", "What’s the secret?"]
+      "comments": [
+        {"commentor": "Leo", "comment": "Happy birthday!", "date": "16/8/2025"},
+        {"commentor": "Aria", "comment": "What’s the secret?", "date": "16/8/2025"},
+        {"commentor": "Daniel", "comment": "Unbelievable age.", "date": "16/8/2025"},
+        {"commentor": "Sophia", "comment": "So cute!", "date": "16/8/2025"},
+        {"commentor": "Liam", "comment": "Love this story.", "date": "16/8/2025"},
+        {"commentor": "Nora", "comment": "Hope it lives longer.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 9,
@@ -97,7 +153,14 @@
       "image": "https://static.businessinsider.com/image/5988dfee27fa6b4023425d09-750.jpg",
       "fakeVoteCount": 4,
       "verifiedVoteCount": 20,
-      "comments": ["Summer just got better.", "Sounds suspicious."]
+      "comments": [
+        {"commentor": "Evelyn", "comment": "Summer just got better.", "date": "16/8/2025"},
+        {"commentor": "Jack", "comment": "Sounds suspicious.", "date": "16/8/2025"},
+        {"commentor": "Mila", "comment": "I want to try this.", "date": "16/8/2025"},
+        {"commentor": "Owen", "comment": "Game changer.", "date": "16/8/2025"},
+        {"commentor": "Ella", "comment": "Too good to be true?", "date": "16/8/2025"},
+        {"commentor": "Lucas", "comment": "Hope it's healthy.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 10,
@@ -108,7 +171,14 @@
       "image": "https://th.bing.com/th/id/R.0742e5e4051d50b412efbb62f9821b54?rik=Z3MZ2vGDB4eN3g&riu=http%3a%2f%2fimages.newsvend.info%2f143854-217952-2570.jpg&ehk=saOXJc9J2yGEsB%2f1IN5TRyIsQ%2fGAAgiB8fWd%2f3AbC1Q%3d&risl=&pid=ImgRaw&r=0",
       "fakeVoteCount": 0,
       "verifiedVoteCount": 42,
-      "comments": ["Dream home!", "Probably too expensive."]
+      "comments": [
+        {"commentor": "Ella", "comment": "Dream home!", "date": "16/8/2025"},
+        {"commentor": "James", "comment": "Probably too expensive.", "date": "16/8/2025"},
+        {"commentor": "Aiden", "comment": "Castle life sounds fun.", "date": "16/8/2025"},
+        {"commentor": "Maya", "comment": "Historic treasure.", "date": "16/8/2025"},
+        {"commentor": "Carter", "comment": "Hope it’s preserved.", "date": "16/8/2025"},
+        {"commentor": "Sophia", "comment": "Imagine living there.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 11,
@@ -119,9 +189,16 @@
       "image": "time-traveler.jpg",
       "fakeVoteCount": 95,
       "verifiedVoteCount": 1,
-      "comments": ["Yeah right.", "Sounds like a movie plot."]
+      "comments": [
+        {"commentor": "Liam", "comment": "Yeah right.", "date": "16/8/2025"},
+        {"commentor": "Charlotte", "comment": "Sounds like a movie plot.", "date": "16/8/2025"},
+        {"commentor": "Ethan", "comment": "Not believable.", "date": "16/8/2025"},
+        {"commentor": "Ava", "comment": "Science fiction vibes.", "date": "16/8/2025"},
+        {"commentor": "Noah", "comment": "Where’s the proof?", "date": "16/8/2025"},
+        {"commentor": "Mia", "comment": "Funny but fake.", "date": "16/8/2025"}
+      ]
     },
-    {
+     {
       "id": 12,
       "topic": "New Eco-Friendly Car Model Released",
       "details": "Automaker launches a fully electric car with record range and efficiency.",
@@ -130,7 +207,14 @@
       "image": "eco-car.jpg",
       "fakeVoteCount": 0,
       "verifiedVoteCount": 33,
-      "comments": ["Love the design!", "Can’t wait to test drive."]
+      "comments": [
+        {"commentor": "John Park", "comment": "Love the design!", "date": "16/8/2025"},
+        {"commentor": "Ava Nguyen", "comment": "Can’t wait to test drive.", "date": "16/8/2025"},
+        {"commentor": "Marco Silva", "comment": "Record range sounds promising.", "date": "16/8/2025"},
+        {"commentor": "Priya Kapoor", "comment": "What’s the fast-charging time?", "date": "16/8/2025"},
+        {"commentor": "Derek Chen", "comment": "Price will decide everything.", "date": "16/8/2025"},
+        {"commentor": "Yuna Sato", "comment": "Glad it's fully electric.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 13,
@@ -141,7 +225,14 @@
       "image": "robot-parade.jpg",
       "fakeVoteCount": 2,
       "verifiedVoteCount": 11,
-      "comments": ["Wow!", "Looks amazing."]
+      "comments": [
+        {"commentor": "Milo Grant", "comment": "Wow!", "date": "16/8/2025"},
+        {"commentor": "Zara Patel", "comment": "Looks amazing.", "date": "16/8/2025"},
+        {"commentor": "Hugo Martin", "comment": "Kids will love this parade.", "date": "16/8/2025"},
+        {"commentor": "Sienna Rossi", "comment": "Hope traffic was managed well.", "date": "16/8/2025"},
+        {"commentor": "Kai Thompson", "comment": "Robotics + art is so cool.", "date": "16/8/2025"},
+        {"commentor": "Elena Petrova", "comment": "Please do this every year.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 14,
@@ -152,7 +243,14 @@
       "image": "energy-storage.jpg",
       "fakeVoteCount": 0,
       "verifiedVoteCount": 55,
-      "comments": ["Huge progress!", "The future is bright."]
+      "comments": [
+        {"commentor": "Omar Reyes", "comment": "Huge progress!", "date": "16/8/2025"},
+        {"commentor": "Lucy Wang", "comment": "The future is bright.", "date": "16/8/2025"},
+        {"commentor": "Nikolai Ivanov", "comment": "What about cycle life?", "date": "16/8/2025"},
+        {"commentor": "Fatima Ali", "comment": "When will this hit the market?", "date": "16/8/2025"},
+        {"commentor": "Jonas Becker", "comment": "Twice the density is massive.", "date": "16/8/2025"},
+        {"commentor": "Grace Lim", "comment": "Storage is the missing piece.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 15,
@@ -163,7 +261,14 @@
       "image": "library.jpg",
       "fakeVoteCount": 1,
       "verifiedVoteCount": 29,
-      "comments": ["Super convenient!", "Love it!"]
+      "comments": [
+        {"commentor": "Noel Carter", "comment": "Super convenient!", "date": "16/8/2025"},
+        {"commentor": "Ivy Brooks", "comment": "Love it!", "date": "16/8/2025"},
+        {"commentor": "Rahul Mehta", "comment": "Great for students who study late.", "date": "16/8/2025"},
+        {"commentor": "Anne Dupont", "comment": "Security measures better be strong.", "date": "16/8/2025"},
+        {"commentor": "Diego Alvarez", "comment": "Will there be quiet rooms at night?", "date": "16/8/2025"},
+        {"commentor": "Chloe Bennett", "comment": "Please add more e-books too.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 16,
@@ -174,7 +279,14 @@
       "image": "flood.jpg",
       "fakeVoteCount": 3,
       "verifiedVoteCount": 8,
-      "comments": ["Stay safe!", "Hope everyone is okay."]
+      "comments": [
+        {"commentor": "Hannah Lee", "comment": "Stay safe!", "date": "16/8/2025"},
+        {"commentor": "Tom Garcia", "comment": "Hope everyone is okay.", "date": "16/8/2025"},
+        {"commentor": "Maya Singh", "comment": "Any shelters for pets?", "date": "16/8/2025"},
+        {"commentor": "Peter O’Neil", "comment": "Roads are still flooded here.", "date": "16/8/2025"},
+        {"commentor": "Luca Romano", "comment": "Emergency crews doing an amazing job.", "date": "16/8/2025"},
+        {"commentor": "Nadia Yusuf", "comment": "Donate to local relief funds.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 17,
@@ -185,7 +297,14 @@
       "image": "rare-bird.jpg",
       "fakeVoteCount": 0,
       "verifiedVoteCount": 48,
-      "comments": ["Amazing sighting!", "Beautiful bird."]
+      "comments": [
+        {"commentor": "George Kim", "comment": "Amazing sighting!", "date": "16/8/2025"},
+        {"commentor": "Bella Ortiz", "comment": "Beautiful bird.", "date": "16/8/2025"},
+        {"commentor": "Ravi Narayan", "comment": "Which species exactly?", "date": "16/8/2025"},
+        {"commentor": "Sofia Mendes", "comment": "Please keep a respectful distance.", "date": "16/8/2025"},
+        {"commentor": "Finn O’Connor", "comment": "Grab your binoculars!", "date": "16/8/2025"},
+        {"commentor": "Leila Haddad", "comment": "Urban parks are full of surprises.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 18,
@@ -196,7 +315,14 @@
       "image": "artifact.jpg",
       "fakeVoteCount": 0,
       "verifiedVoteCount": 36,
-      "comments": ["Incredible find!", "History comes alive."]
+      "comments": [
+        {"commentor": "Ethan Price", "comment": "Incredible find!", "date": "16/8/2025"},
+        {"commentor": "Mina Kwon", "comment": "History comes alive.", "date": "16/8/2025"},
+        {"commentor": "Armand Dubois", "comment": "Hope the site is preserved.", "date": "16/8/2025"},
+        {"commentor": "Sara Ibrahim", "comment": "Any photos from archaeologists?", "date": "16/8/2025"},
+        {"commentor": "Jared Collins", "comment": "What era is it from?", "date": "16/8/2025"},
+        {"commentor": "Natalie Cruz", "comment": "Museums will be thrilled.", "date": "16/8/2025"}
+      ]
     },
     {
       "id": 19,
@@ -207,7 +333,14 @@
       "image": "viral-challenge.jpg",
       "fakeVoteCount": 67,
       "verifiedVoteCount": 3,
-      "comments": ["This is unsafe!", "People need to stop."]
+      "comments": [
+        {"commentor": "Ismail Khan", "comment": "This is unsafe!", "date": "16/8/2025"},
+        {"commentor": "Riley Moore", "comment": "People need to stop.", "date": "16/8/2025"},
+        {"commentor": "Tuan Pham", "comment": "Social platforms should remove these.", "date": "16/8/2025"},
+        {"commentor": "Greta Holm", "comment": "Schools should warn students.", "date": "16/8/2025"},
+        {"commentor": "Andre Lopes", "comment": "Trend doesn’t equal smart.", "date": "16/8/2025"},
+        {"commentor": "Keiko Tanaka", "comment": "Cancel the challenge, not yourself.", "date": "16/8/2025"}
+      ]
     }
   ]
 }
