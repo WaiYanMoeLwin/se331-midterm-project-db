@@ -6,7 +6,7 @@
       "details": "The local government has installed new bike lanes to promote eco-friendly transportation.",
       "reporter": "Alice Johnson",
       "datetime": "2025-08-01T09:15:00Z",
-      "image": "bike-lanes.jpg",
+      "image": "https://bicyclenetwork.com.au/wp-content/uploads/2023/04/NCY-lanes-socials.png",
       "fakeVoteCount": 2,
       "verifiedVoteCount": 45,
       "comments": ["Great initiative!", "Finally, safer cycling routes."]
@@ -17,7 +17,7 @@
       "details": "Experts warn of a possible global chocolate shortage due to poor cocoa harvests.",
       "reporter": "Michael Lee",
       "datetime": "2025-07-29T14:20:00Z",
-      "image": "chocolate-shortage.jpg",
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2023/03/chocolate-bar-foil.jpg",
       "fakeVoteCount": 5,
       "verifiedVoteCount": 12,
       "comments": ["Say it isn't so!", "Stocking up now."]
@@ -28,7 +28,7 @@
       "details": "A famous actor has adopted five rescue dogs from a local shelter.",
       "reporter": "Sarah Kim",
       "datetime": "2025-08-10T11:45:00Z",
-      "image": "celebrity-dogs.jpg",
+      "image": "https://www.pawsupdogs.com/wp-content/uploads/2019/03/five-dogs.jpg",
       "fakeVoteCount": 0,
       "verifiedVoteCount": 88,
       "comments": ["That's amazing!", "More celebrities should do this."]
@@ -39,7 +39,7 @@
       "details": "Multiple witnesses claim to have seen a UFO hovering over the downtown area.",
       "reporter": "Tom Reynolds",
       "datetime": "2025-08-12T21:30:00Z",
-      "image": "ufo-city.jpg",
+      "image": "https://img.freepik.com/premium-photo/alien-ship-flies-modern-city-with-view-skyscrapers-visible-background_124507-157671.jpg",
       "fakeVoteCount": 73,
       "verifiedVoteCount": 4,
       "comments": ["No way that's real.", "Photoshop strikes again."]
@@ -50,7 +50,7 @@
       "details": "The latest smartphone release has sold over 2 million units in 24 hours.",
       "reporter": "Emily Carter",
       "datetime": "2025-08-05T10:05:00Z",
-      "image": "smartphone.jpg",
+      "image": "https://m-cdn.phonearena.com/images/article/152814-wide-two_1200/Global-smartphone-sales-return-to-growth-in-October-breaking-two-year-losing-streak.jpg?1700647090",
       "fakeVoteCount": 1,
       "verifiedVoteCount": 54,
       "comments": ["I got one!", "Best phone I've used."]
@@ -61,7 +61,7 @@
       "details": "A farmer has grown a pumpkin weighing over 900 kg, breaking the regional record.",
       "reporter": "Chris Howard",
       "datetime": "2025-08-14T08:00:00Z",
-      "image": "giant-pumpkin.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/rYmjBZRV6oW5cPryewDLDH-1920-80.jpg",
       "fakeVoteCount": 0,
       "verifiedVoteCount": 35,
       "comments": ["That's huge!", "Pumpkin pie for everyone."]
@@ -72,7 +72,7 @@
       "details": "A trendy restaurant has introduced robots to serve customers.",
       "reporter": "Anna Wilson",
       "datetime": "2025-07-25T19:40:00Z",
-      "image": "robot-waiters.jpg",
+      "image": "https://th.bing.com/th/id/R.7983548d47af62e8261f8ba41136b854?rik=z8owPG6UbH5y0w&riu=http%3a%2f%2fwww.theoldrobots.com%2fimages106%2fRestaurant_Robot-10.JPG&ehk=G2c9i426Is3OlH8EcMPAHw5PWU7wdKSA%2fqlTvyxmFhU%3d&risl=&pid=ImgRaw&r=0",
       "fakeVoteCount": 3,
       "verifiedVoteCount": 9,
       "comments": ["Future is here!", "I miss human interaction."]
@@ -83,7 +83,7 @@
       "details": "A cat from Texas has officially turned 30 years old, setting a world record.",
       "reporter": "David Brown",
       "datetime": "2025-08-09T06:50:00Z",
-      "image": "oldest-cat.jpg",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article33674038.ece/ALTERNATES/s1200d/0_Oldest-cat-in-the-world-dies-aged-33.jpg",
       "fakeVoteCount": 0,
       "verifiedVoteCount": 64,
       "comments": ["Happy birthday!", "What’s the secret?"]
@@ -94,7 +94,7 @@
       "details": "Scientists claim to have developed ice cream that can stay solid for hours.",
       "reporter": "Laura Green",
       "datetime": "2025-08-02T15:25:00Z",
-      "image": "never-melt-icecream.jpg",
+      "image": "https://static.businessinsider.com/image/5988dfee27fa6b4023425d09-750.jpg",
       "fakeVoteCount": 4,
       "verifiedVoteCount": 20,
       "comments": ["Summer just got better.", "Sounds suspicious."]
@@ -105,7 +105,7 @@
       "details": "A 500-year-old castle in Europe is now available for private ownership.",
       "reporter": "Peter Hall",
       "datetime": "2025-08-11T13:00:00Z",
-      "image": "castle-sale.jpg",
+      "image": "https://th.bing.com/th/id/R.0742e5e4051d50b412efbb62f9821b54?rik=Z3MZ2vGDB4eN3g&riu=http%3a%2f%2fimages.newsvend.info%2f143854-217952-2570.jpg&ehk=saOXJc9J2yGEsB%2f1IN5TRyIsQ%2fGAAgiB8fWd%2f3AbC1Q%3d&risl=&pid=ImgRaw&r=0",
       "fakeVoteCount": 0,
       "verifiedVoteCount": 42,
       "comments": ["Dream home!", "Probably too expensive."]
