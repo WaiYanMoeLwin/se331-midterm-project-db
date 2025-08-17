@@ -3,211 +3,192 @@
     {
       "id": 1,
       "topic": "City Introduces New Bike Lanes",
-      "details": "The local government has installed new bike lanes to promote eco-friendly transportation.",
+      "details": "The local government has recently completed the installation of several new bike lanes across the city to encourage residents to choose cycling as a primary mode of transportation. This initiative is part of a broader strategy to promote eco-friendly commuting options and reduce automobile emissions that contribute to air pollution and climate change. The newly designed bike lanes cover major thoroughfares, connecting residential neighborhoods to key commercial and recreational areas, making bike travel safer and more convenient for daily commuters. City officials highlighted that this step would not only improve public health by encouraging physical activity but also reduce traffic congestion and parking demand downtown. The bike lanes include protective barriers in high-traffic areas, clear signage, and improved lighting for nighttime safety. Local cycling groups have praised the move as a major win for sustainable urban planning and are eager to see increased ridership in coming months. The government is also launching educational campaigns about sharing road safety rules among drivers and cyclists. Ongoing monitoring will assess the project's impact on traffic flow and pollution levels, potentially paving the way for further investments in bike-friendly infrastructure. This effort aligns with the city’s commitments to national and international environmental targets and supports its vision of becoming a green, livable urban center for future generations.",
       "reporter": "Alice Johnson",
       "datetime": "2025-08-01T09:15:00Z",
       "image": "https://bicyclenetwork.com.au/wp-content/uploads/2023/04/NCY-lanes-socials.png",
       "fakeVoteCount": 2,
-      "verifiedVoteCount": 45,
-      "comments": ["Great initiative!", "Finally, safer cycling routes."]
+      "verifiedVoteCount": 45
     },
     {
       "id": 2,
       "topic": "Chocolate Shortage Expected Worldwide",
-      "details": "Experts warn of a possible global chocolate shortage due to poor cocoa harvests.",
+      "details": "Global experts in agriculture and food supply have raised alarms about an impending worldwide chocolate shortage triggered by a combination of poor cocoa harvests over the past few years. Cocoa farmers in critical producing countries have faced adverse weather conditions, including droughts, floods, and unseasonal storms, all of which have severely reduced crop yields. Additionally, aging cocoa plants and insufficient replanting efforts have further curtailed production capacity. This has led to a significant imbalance between supply and growing demand, especially as chocolate remains a beloved treat worldwide with rising consumer interest in premium and specialty varieties. The chocolate industry, which supports millions of farmers and workers along the supply chain, is now grappling with price volatility, potentially pushing up the cost of chocolate products for consumers. Confectionery companies are exploring alternatives such as diversifying cocoa sourcing, increasing investments in sustainable farming practices, and developing synthetic cocoa ingredients to mitigate the shortage. Economists predict that if these measures fail to quickly stabilize supply, chocolate availability could become scarce in retail outlets by late 2025 or early 2026. This would impact not only holiday seasons but also everyday products containing cocoa derivatives. In response, awareness campaigns are being organized to educate consumers about the origins of chocolate and the importance of supporting sustainable agriculture. The situation also emphasizes the broader challenges facing global food security due to climate change and environmental degradation.",
       "reporter": "Michael Lee",
       "datetime": "2025-07-29T14:20:00Z",
       "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2023/03/chocolate-bar-foil.jpg",
       "fakeVoteCount": 5,
-      "verifiedVoteCount": 12,
-      "comments": ["Say it isn't so!", "Stocking up now."]
+      "verifiedVoteCount": 12
     },
     {
       "id": 3,
       "topic": "Celebrity Adopts 5 Rescue Dogs",
-      "details": "A famous actor has adopted five rescue dogs from a local shelter.",
+      "details": "A well-known actor has recently made headlines by adopting five rescue dogs from a local animal shelter, drawing attention to the plight of abandoned and homeless pets. The celebrity visited the shelter with the intent to provide loving homes for animals in need, personally selecting five dogs of varying breeds, ages, and temperaments. The actor’s high-profile support aims to shine a light on the importance of animal welfare and responsible pet ownership. Shelters across the country often face overcrowding and resource shortages, so such adoptions help relieve some of the pressure while inspiring fans and the public to consider adopting pets instead of purchasing from breeders. The adopted dogs will join the celebrity’s household, where they will receive care, rehabilitation, and training. The shelter manager expressed gratitude for the actor’s involvement, which is expected to boost community engagement and donations. In addition to the adoption event, the celebrity plans to use their platform to advocate for stronger animal protection laws, increased funding for shelters, and education on preventing animal cruelty. This powerful example shows how public figures can influence social causes positively and raise awareness about ongoing issues in animal rescue. Family, friends, and fans celebrated this compassionate decision, hoping it sparks a larger movement toward improving the lives of neglected animals everywhere. The actor has promised to keep followers updated on the dogs’ progress and adoption journey through future media appearances and social posts.",
       "reporter": "Sarah Kim",
       "datetime": "2025-08-10T11:45:00Z",
       "image": "https://www.pawsupdogs.com/wp-content/uploads/2019/03/five-dogs.jpg",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 88,
-      "comments": ["That's amazing!", "More celebrities should do this."]
+      "verifiedVoteCount": 88
     },
     {
       "id": 4,
       "topic": "Alien Ship Spotted Over City",
-      "details": "Multiple witnesses claim to have seen a UFO hovering over the downtown area.",
+      "details": "Several eyewitnesses have come forward reporting the sighting of an unidentified flying object (UFO) hovering over the downtown area late at night. According to these accounts, the object exhibited unusual lights and movements that did not resemble any conventional aircraft or drone. Multiple people captured blurry photos and videos that quickly circulated on social media, sparking spirited debate about the authenticity of the encounter. Skeptics argue that the images were either digitally altered or result from misidentified terrestrial objects like satellites or weather balloons. Some believe it to be a publicity stunt or an elaborate prank. Nonetheless, the event has renewed public interest in the possibility of extraterrestrial visitation and government transparency regarding UFO phenomena. Local authorities have stated they are investigating the reports and reviewing surveillance footage from city cameras but have not confirmed any official explanation. Independent UFO researchers and enthusiasts have flocked to the area, hoping for further evidence or new developments. The city’s residents remain divided between curiosity, excitement, and skepticism. While no concrete proof has emerged, this incident has once again pushed UFOs to the forefront of public imagination, inspiring conversations about humanity’s place in the universe and the limits of current scientific knowledge. It also fuels calls for governments worldwide to disclose declassified information related to aerial anomalies and alien encounters. Meanwhile, experts caution that extraordinary claims require extraordinary evidence, urging patience and critical thinking while investigations continue.",
       "reporter": "Tom Reynolds",
       "datetime": "2025-08-12T21:30:00Z",
       "image": "https://img.freepik.com/premium-photo/alien-ship-flies-modern-city-with-view-skyscrapers-visible-background_124507-157671.jpg",
       "fakeVoteCount": 73,
-      "verifiedVoteCount": 4,
-      "comments": ["No way that's real.", "Photoshop strikes again."]
+      "verifiedVoteCount": 4
     },
     {
       "id": 5,
       "topic": "New Smartphone Breaks Sales Records",
-      "details": "The latest smartphone release has sold over 2 million units in 24 hours.",
+      "details": "The latest smartphone model released by a leading tech manufacturer has shattered sales records by exceeding two million units sold within the first 24 hours of availability. This new device features cutting-edge technology including an ultra-high-resolution display, a powerful multi-core processor, extended battery life, and an advanced camera system with enhanced AI capabilities for professional-grade photos and videos. Its sleek design and innovative user interface have attracted widespread consumer attention and pre-launch hype. Retailers around the world reported unprecedented demand, leading to temporarily sold-out stock in many regions. Industry analysts attribute the extraordinary sales performance to the brand’s strong market reputation, aggressive marketing campaigns, and growing consumer eagerness for mobile devices that integrate entertainment, productivity, and communication functions seamlessly. The smartphone also supports 5G connectivity and comes with a suite of software improvements aimed at enhancing user experience. Customer reviews in the early days have praised its speed, build quality, and new features while noting a premium price point. The manufacturer has announced plans to continue ramping up production to meet the overwhelming demand and is exploring partnerships to expand accessory options. This launch marks a milestone in the competitive mobile market and sets new standards for innovation and consumer expectations going forward. Technology enthusiasts are already speculating about upcoming iterations and ecosystem expansions.",
       "reporter": "Emily Carter",
       "datetime": "2025-08-05T10:05:00Z",
       "image": "https://m-cdn.phonearena.com/images/article/152814-wide-two_1200/Global-smartphone-sales-return-to-growth-in-October-breaking-two-year-losing-streak.jpg?1700647090",
       "fakeVoteCount": 1,
-      "verifiedVoteCount": 54,
-      "comments": ["I got one!", "Best phone I've used."]
+      "verifiedVoteCount": 54
     },
     {
       "id": 6,
       "topic": "Giant Pumpkin Wins Local Fair",
-      "details": "A farmer has grown a pumpkin weighing over 900 kg, breaking the regional record.",
+      "details": "At this year’s annual local fair, a farmer stunned visitors by growing a pumpkin that weighed over 900 kilograms, setting a new regional record for the largest pumpkin ever recorded in the area. The pumpkin’s massive size was the result of a meticulous cultivation process involving specially selected seeds, tailored fertilization, carefully controlled watering schedules, and protection from pests and diseases. The farmer shared insights into the months-long dedication required, including monitoring soil conditions and experimenting with organic growth enhancers. The pumpkin was displayed prominently at the fairgrounds, drawing crowds fascinated by its sheer enormity. Judges evaluated pumpkins based on weight, appearance, and overall health and enthusiastically declared this gourd the winner of the competition. Aside from the prize and local fame, the giant pumpkin will serve educational purposes; pieces of it will be distributed to schools and community centers to raise awareness about agricultural practices and nutrition. The farmer hopes the achievement will inspire other growers to pursue innovative methods in crop production. The fair also featured related events such as cooking contests, pumpkin carving exhibitions, and harvest-themed celebrations, creating a festive atmosphere. This remarkable agricultural feat underscores the community’s strong ties to farming traditions, communal gatherings, and appreciation for nature’s bounty. It also highlights advances in horticultural science and the potential for extraordinary outcomes through dedication and expertise.",
       "reporter": "Chris Howard",
       "datetime": "2025-08-14T08:00:00Z",
       "image": "https://cdn.mos.cms.futurecdn.net/rYmjBZRV6oW5cPryewDLDH-1920-80.jpg",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 35,
-      "comments": ["That's huge!", "Pumpkin pie for everyone."]
+      "verifiedVoteCount": 35
     },
     {
       "id": 7,
       "topic": "Robots Replace Waiters in Popular Restaurant",
-      "details": "A trendy restaurant has introduced robots to serve customers.",
+      "details": "A trendy restaurant has recently made headlines by introducing robots to serve customers, marking a significant step forward in automation within the hospitality industry. The establishment deployed a fleet of sophisticated robotic servers equipped with sensors, artificial intelligence, and mobility systems capable of navigating the dining area, taking orders, delivering food, and responding to customer requests. This innovative approach aims to improve service efficiency, reduce wait times, and lower labor costs, particularly in a sector traditionally reliant on human staff. Customers have had mixed reactions: some are excited by the futuristic experience and appreciate the novelty, while others miss the personal touch and human interaction that define hospitality. The restaurant has taken measures to ensure the robots are friendly and capable of interacting politely with patrons, employing voice recognition and customized responses. Staff members now focus more on kitchen operations and customer support behind the scenes. The move has attracted media attention and stimulated discussions about the future of work, technological unemployment, and the ethical implications of replacing workers with machines. Industry experts suggest that while robots may enhance productivity and hygiene, especially post-pandemic, human empathy and creativity remain essential. The restaurant plans to collect customer feedback over the coming months to refine robotic services and possibly integrate hybrid models combining human and automated interactions. This pilot project could serve as a blueprint for other businesses seeking to balance innovation with excellent customer experience.",
       "reporter": "Anna Wilson",
       "datetime": "2025-07-25T19:40:00Z",
       "image": "https://th.bing.com/th/id/R.7983548d47af62e8261f8ba41136b854?rik=z8owPG6UbH5y0w&riu=http%3a%2f%2fwww.theoldrobots.com%2fimages106%2fRestaurant_Robot-10.JPG&ehk=G2c9i426Is3OlH8EcMPAHw5PWU7wdKSA%2fqlTvyxmFhU%3d&risl=&pid=ImgRaw&r=0",
       "fakeVoteCount": 3,
-      "verifiedVoteCount": 9,
-      "comments": ["Future is here!", "I miss human interaction."]
+      "verifiedVoteCount": 9
     },
     {
       "id": 8,
       "topic": "World’s Oldest Cat Turns 30",
-      "details": "A cat from Texas has officially turned 30 years old, setting a world record.",
+      "details": "A remarkable feline from Texas has officially celebrated its 30th birthday, setting a new world record for the oldest living cat. This extraordinary milestone is akin to a human living well beyond 120 years, highlighting advancements in pet care, nutrition, and veterinary medicine. The cat, a beloved family companion, has thrived thanks to attentive care, a balanced diet, regular medical checkups, and a loving home environment that reduces stress and promotes activity. Its longevity has attracted international attention from animal enthusiasts and researchers interested in understanding longevity factors in domestic pets. The owner shared stories about the cat’s playful personality, favorite activities, and how it has adapted its lifestyle over the decades. Veterinarians involved in the cat’s care noted that genetics likely played a role alongside environmental factors. This case has provided valuable insights into aging in animals, encouraging further studies on age-related diseases and preventive healthcare strategies. Animal welfare groups see this as an opportunity to educate the public about responsible pet ownership and the importance of providing lifelong care for pets. The celebration included social media campaigns, special treats for the cat, and donations to local animal charities. The world’s oldest cat continues to inspire joy and hope for pet owners everywhere, reminding us of the deep bonds between humans and their animal companions.",
       "reporter": "David Brown",
       "datetime": "2025-08-09T06:50:00Z",
       "image": "https://i2-prod.mirror.co.uk/incoming/article33674038.ece/ALTERNATES/s1200d/0_Oldest-cat-in-the-world-dies-aged-33.jpg",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 64,
-      "comments": ["Happy birthday!", "What’s the secret?"]
+      "verifiedVoteCount": 64
     },
     {
       "id": 9,
       "topic": "Ice Cream That Never Melts Invented",
-      "details": "Scientists claim to have developed ice cream that can stay solid for hours.",
+      "details": "Scientists have announced a groundbreaking invention: an ice cream formula designed to remain solid for hours even in warm conditions. This innovative product uses advanced food science techniques, including specialized stabilizers and encapsulated cooling agents, to significantly delay melting without compromising taste or texture. The breakthrough is expected to revolutionize the ice cream industry by addressing common frustrations related to melting and messiness during transport, outdoor events, and consumer enjoyment. The development process involved extensive testing to ensure the product remains safe and appealing while extending shelf life. Researchers aim for this ice cream to be viable for various climates and applications, potentially opening new markets worldwide. Food safety regulators are evaluating the formulation for approval. Early consumer trials have been enthusiastic, highlighting the convenience and novelty of enjoying frozen treats without the typical rapid melting drawback. Manufacturers are also examining the potential for flavor variety expansion and sustainable packaging to complement this invention. While some have expressed skepticism about the concept, scientists emphasize its feasibility based on current technology. The ice cream that never melts could transform summer treats, increase accessibility in hot regions, and reduce food waste. This advancement illustrates the promising intersection of culinary art and scientific innovation, potentially changing how we experience desserts forever.",
       "reporter": "Laura Green",
       "datetime": "2025-08-02T15:25:00Z",
       "image": "https://static.businessinsider.com/image/5988dfee27fa6b4023425d09-750.jpg",
       "fakeVoteCount": 4,
-      "verifiedVoteCount": 20,
-      "comments": ["Summer just got better.", "Sounds suspicious."]
+      "verifiedVoteCount": 20
     },
     {
       "id": 10,
       "topic": "Historic Castle Put Up for Sale",
-      "details": "A 500-year-old castle in Europe is now available for private ownership.",
+      "details": "A 500-year-old historic castle located in Europe has been officially listed for private ownership. This medieval fortress, renowned for its architectural grandeur and rich history, has stood as a cultural landmark for centuries, witnessing pivotal moments and generations of nobility. The current owners have decided to sell the property, offering rare access to a piece of living history for prospective buyers interested in restoration, tourism, or residence. The castle features original stonework, antique furnishings, and sprawling grounds including gardens, towers, and defensive walls. Preservationists emphasize the importance of maintaining the site’s heritage while balancing contemporary usability. Interested parties include investors, hospitality operators, and history enthusiasts. The sale presents opportunities for turning the castle into a museum, luxury hotel, or private estate, though responsibilities regarding maintenance and conservation accompany ownership. Local authorities have expressed hopes that the new owner will respect the site’s historical significance and possibly collaborate with cultural organizations. The listing has sparked intrigue among the global community of heritage property aficionados who see owning such a castle as a dream come true but also a serious commitment. This development raises broader questions about safeguarding historic buildings amid modern economic realities and shifting property markets. Social media and travel blogs have featured the castle extensively, adding to its allure. The sale marks a moment of transition for this ancient monument as it seeks new stewardship to preserve its legacy for future generations.",
       "reporter": "Peter Hall",
       "datetime": "2025-08-11T13:00:00Z",
       "image": "https://th.bing.com/th/id/R.0742e5e4051d50b412efbb62f9821b54?rik=Z3MZ2vGDB4eN3g&riu=http%3a%2f%2fimages.newsvend.info%2f143854-217952-2570.jpg&ehk=saOXJc9J2yGEsB%2f1IN5TRyIsQ%2fGAAgiB8fWd%2f3AbC1Q%3d&risl=&pid=ImgRaw&r=0",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 42,
-      "comments": ["Dream home!", "Probably too expensive."]
+      "verifiedVoteCount": 42
     },
     {
       "id": 11,
       "topic": "Man Claims to Time Travel from 2050",
-      "details": "An individual says he traveled from the future to warn humanity.",
+      "details": "An individual has captured public attention by claiming to have traveled through time from the year 2050 to warn humanity about future challenges. According to his account, he arrived with urgent messages about global crises including climate change, technological risks, and social unrest that will intensify if current trends continue unchecked. He provided dramatic descriptions of future societies, advanced technologies, and environmental conditions that have sparked both curiosity and widespread skepticism. Experts and authorities have examined his story critically, citing inconsistencies and a lack of scientific evidence supporting time travel feasibility. Many view the narrative as a hoax or elaborate storytelling rather than factual report. Nonetheless, the man’s warnings align with legitimate concerns raised by scientists about the trajectory of global issues. His presence has generated media frenzy, debates on the impact of future predictions on present-day actions, and philosophical discussions about free will and determinism. Some supporters argue that regardless of the story’s authenticity, the underlying message serves as an important catalyst for urgent dialogue and policy change. Meanwhile, the individual remains committed to sharing lessons from the future and advocating for sustainable, ethical decision-making worldwide. This case highlights society’s fascination with time travel and the human desire to foresee and alter fate, even as skepticism and demand for proof remain paramount.",
       "reporter": "James Allen",
       "datetime": "2025-08-07T22:10:00Z",
-      "image": "time-traveler.jpg",
+      "image": "https://studyfinds.org/wp-content/uploads/2023/10/AdobeStock_571631774-scaled.jpeg",
       "fakeVoteCount": 95,
-      "verifiedVoteCount": 1,
-      "comments": ["Yeah right.", "Sounds like a movie plot."]
+      "verifiedVoteCount": 1
     },
     {
       "id": 12,
       "topic": "New Eco-Friendly Car Model Released",
-      "details": "Automaker launches a fully electric car with record range and efficiency.",
+      "details": "A leading automaker has unveiled a fully electric car model that boasts record-setting range and energy efficiency, marking a significant milestone in the transition to sustainable transportation. This new vehicle incorporates state-of-the-art battery technology, lightweight materials, and aerodynamic design to achieve an extended driving distance on a single charge, significantly reducing range anxiety among consumers. It features fast-charging capabilities and an intelligent energy management system that maximizes performance in various driving conditions. The car also includes advanced safety features, connectivity options, and comfortable interiors designed for modern lifestyles. Its release supports broader environmental goals to reduce carbon emissions and dependence on fossil fuels by making electric vehicles more accessible and appealing to a wide audience. Industry experts predict this model will accelerate the adoption of eco-friendly transportation worldwide and inspire competitors to advance their own electric offerings. The manufacturer has announced plans to expand production and build supporting charging infrastructure in key markets. Customers praised the combination of style, technology, and environmental responsibility. Moreover, the company committed to sustainability by sourcing materials responsibly and emphasizing recyclable components. This launch represents progress in global efforts to combat climate change through innovation in the automotive industry and reflects consumer demand for greener alternatives.",
       "reporter": "Rachel Adams",
       "datetime": "2025-08-03T12:15:00Z",
-      "image": "eco-car.jpg",
+      "image": "https://preview.thenewsmarket.com/Previews/ATFR/StillAssets/1920x1080/627757.jpg",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 33,
-      "comments": ["Love the design!", "Can’t wait to test drive."]
+      "verifiedVoteCount": 33
     },
     {
       "id": 13,
       "topic": "Giant Robot Parade Stuns City Residents",
-      "details": "Robotic sculptures march through downtown in a special festival.",
+      "details": "City residents were left awestruck by a giant robot parade held recently as part of a special urban festival celebrating innovation, creativity, and technology. Large-scale robotic sculptures, designed and built by artists, engineers, and students, marched through downtown streets, drawing crowds of all ages. The parade featured interactive displays, coordinated light shows, and mechanical performances that combined artistry with engineering marvel. Organizers aimed to inspire interest in STEM fields and demonstrate the exciting possibilities of robotics and automation. The parade route was lined with spectators who engaged with the displays, took photographs, and participated in workshops held alongside the event. Local businesses reported increased traffic, benefitting from the influx of visitors. The festival also included lectures and exhibitions discussing the social and economic impacts of robotics. The robots varied in design from humanoid figures to imaginative creatures, showcasing cutting-edge materials, sensors, and programming. The event successfully blended entertainment with education, sparking enthusiasm about the role of technology in everyday life. Community leaders praised the parade for fostering creativity, unity, and forward-thinking spirit. Plans are underway to make the robot parade an annual tradition, expanding it to include more participants and international collaborations. This festival encapsulates the optimism surrounding technological progress while encouraging critical conversations about the future relationship between humans and machines.",
       "reporter": "Kevin Scott",
       "datetime": "2025-08-08T17:20:00Z",
-      "image": "robot-parade.jpg",
+      "image": "https://img.freepik.com/premium-photo/giant-robot-crowd-people-is-front-crowd_900775-7683.jpg?w=2000",
       "fakeVoteCount": 2,
-      "verifiedVoteCount": 11,
-      "comments": ["Wow!", "Looks amazing."]
+      "verifiedVoteCount": 11
     },
     {
       "id": 14,
       "topic": "Breakthrough in Renewable Energy Storage",
-      "details": "Researchers invent a battery that stores twice as much energy as existing models.",
+      "details": "Researchers have announced a significant breakthrough in renewable energy technology with the invention of a new type of battery that can store twice as much energy as current models. This advancement promises to address one of the biggest challenges facing renewable energy deployment: efficient and cost-effective storage. Existing energy storage solutions often limit the reliability and scalability of solar, wind, and other intermittent power sources. The newly developed battery employs novel materials and chemical processes that increase capacity, reduce charging times, and extend lifespan. Scientists believe this innovation could accelerate the transition to clean energy by enabling more stable grid integration and energy availability regardless of weather conditions. The invention has attracted interest from energy companies, governments, and environmental advocates eager to implement sustainable infrastructure. Prototype models are undergoing rigorous testing to ensure safety and performance under real-world conditions. Additionally, researchers are exploring ways to manufacture the batteries at scale with minimal environmental impact. Experts suggest the technology could be transformative for residential, commercial, and industrial energy usage, potentially reducing dependency on fossil fuels and lowering carbon emissions dramatically. The breakthrough aligns with international climate goals and could pave the way for new renewable energy projects worldwide. Public optimism is high as this advancement symbolizes the tangible progress being made toward a greener, more resilient energy future.",
       "reporter": "Megan Liu",
       "datetime": "2025-08-06T09:50:00Z",
-      "image": "energy-storage.jpg",
+      "image": "https://wattstor.com/wp-content/uploads/2024/01/Batter-energy-storage-systems.jpg",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 55,
-      "comments": ["Huge progress!", "The future is bright."]
+      "verifiedVoteCount": 55
     },
     {
       "id": 15,
       "topic": "Local Library Offers 24/7 Access",
-      "details": "The library implements automated systems for round-the-clock usage.",
+      "details": "In an innovative move to serve community needs better, the local library has implemented an automated system that allows visitors to access its resources 24 hours a day, seven days a week. This new system includes secure entrances controlled by library cards or apps, self-service kiosks for borrowing and returning books, and remote monitoring to ensure safety and order. Librarians remain available during traditional hours for support and programming but the expanded access enables students, researchers, and casual readers to visit at any time that suits their schedules. This initiative responds to changing lifestyles and the growing demand for flexible learning environments, particularly for those balancing work, school, and family commitments. The library has upgraded its digital catalog and introduced mobile apps to facilitate browsing and reservation. Patrons can also access online databases, e-books, and multimedia content remotely. Community feedback has been positive, with many expressing appreciation for the increased convenience and independence. Technical staff have trained security personnel and installed advanced sensors to protect the facility and materials. The initiative also reduces crowding during peak hours and supports social distancing measures. By embracing automation and modern technology, the library is redefining its role as a vital public resource, committed to lifelong learning and equal access to information. Plans for future enhancements include virtual reality learning stations and expanded digital collections.",
       "reporter": "Daniel White",
       "datetime": "2025-08-04T07:30:00Z",
-      "image": "library.jpg",
+      "image": "https://dotcommagazine.com/wp-content/uploads/2023/06/emil-widlund-xrbbXIXAWY0-unsplash-scaled.jpg",
       "fakeVoteCount": 1,
-      "verifiedVoteCount": 29,
-      "comments": ["Super convenient!", "Love it!"]
+      "verifiedVoteCount": 29
     },
     {
       "id": 16,
       "topic": "Town Declares Emergency After Heavy Rain",
-      "details": "Flooding forces evacuation and emergency services mobilization.",
+      "details": "Following an intense period of heavy rain, the town has declared a state of emergency due to severe flooding that affected homes, businesses, and transportation networks. Emergency services were mobilized promptly to conduct evacuations, provide shelter, and manage road closures. The weather event overwhelmed local drainage systems and caused rivers to swell beyond capacity, leading to widespread inundation in low-lying areas. Authorities are coordinating with state and federal agencies to assess damage, restore utilities, and distribute aid to affected residents. Relief centers have been established offering food, medical care, and temporary housing. The community has witnessed extensive disruption, with some neighborhoods remaining inaccessible for days due to floodwaters and debris. Municipal officials are reviewing infrastructure vulnerabilities and discussing long-term flood prevention projects such as improved levees, stormwater management, and environmental restoration. The event has raised awareness about climate resilience and the increasing frequency of extreme weather incidents. Residents have been urged to follow safety advisories, prepare emergency kits, and stay informed through official channels. Volunteer groups and nonprofits have rallied to support relief efforts, providing manpower and supplies. Recovery is expected to take months, with a focus on rebuilding and strengthening community preparedness. This situation underscores the profound impacts of adverse weather on local populations and the necessity of coordinated response and mitigation strategies.",
       "reporter": "Olivia King",
       "datetime": "2025-08-12T05:45:00Z",
-      "image": "flood.jpg",
+      "image": "https://site.extension.uga.edu/climate/files/2017/06/modeling_future_rainfall-heavy-rain.jpg",
       "fakeVoteCount": 3,
-      "verifiedVoteCount": 8,
-      "comments": ["Stay safe!", "Hope everyone is okay."]
+      "verifiedVoteCount": 8
     },
     {
       "id": 17,
       "topic": "Rare Bird Species Spotted in Urban Park",
-      "details": "Bird watchers report seeing a rare species in the city center.",
+      "details": "Bird watchers and nature enthusiasts were thrilled to report the sighting of a rare bird species within a city’s central urban park, a habitat not typically known to host such exotic wildlife. The bird, identified by local ornithologists as a species usually found in remote or specialized ecosystems, appeared healthy and active, delighting observers. The presence of this rare bird may indicate changes in migratory patterns, habitat shifts, or ecological disruptions possibly linked to environmental factors such as climate change or urban expansion. Conservationists view the sighting as an opportunity to raise awareness about biodiversity and the importance of green spaces within urban settings for wildlife preservation. Efforts are underway to study the bird’s behavior, diet, and interactions within the park to ensure its safety and support. The findings will contribute to broader ecological research and biodiversity monitoring programs. The city’s parks department is considering enhancements to protect habitat quality, such as planting native vegetation and reducing human disturbances. The community has expressed enthusiasm about the discovery, engaging in educational programs and guided birdwatching tours to foster a greater appreciation of nature. This event highlights the unexpected ways wildlife and urban life intersect and the need for mindful stewardship of natural resources amidst city development.",
       "reporter": "Sophia Martinez",
       "datetime": "2025-08-09T16:10:00Z",
-      "image": "rare-bird.jpg",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.Uuo_upqEmRPoVW1FJpnL0wHaEd?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 48,
-      "comments": ["Amazing sighting!", "Beautiful bird."]
+      "verifiedVoteCount": 48
     },
     {
       "id": 18,
       "topic": "Ancient Artifact Found Under Construction Site",
-      "details": "Archaeologists discover a historic relic while excavating a building site.",
+      "details": "Archaeologists have uncovered a significant ancient artifact during excavation work at a construction site, providing valuable insights into the region’s historical and cultural heritage. The relic, believed to date back several centuries, includes intricately crafted items that suggest ceremonial or daily life uses by past civilizations. The discovery was made when construction crews reported unusual objects to local heritage authorities, prompting a temporary suspension of building activities to allow professional examination. Researchers have begun detailed analysis, including carbon dating and material studies, to determine the artifact’s origin and significance. Preservation experts emphasize the importance of carefully excavating and protecting the find to prevent damage and loss. The local community has shown great interest, with plans underway to display the artifact in a museum or cultural center to educate the public about their ancestral roots. The discovery reinforces the historical richness of the area and may prompt further archaeological investigations nearby. It also highlights the need for balance between urban development and heritage conservation, encouraging policies that safeguard archaeological sites. The project team is collaborating with historians, indigenous groups, and government agencies to ensure respectful handling and interpretation of the artifact’s context. This find connects the past and present, offering opportunities for cultural enrichment and identity reaffirmation.",
       "reporter": "Ethan Clark",
       "datetime": "2025-08-11T11:00:00Z",
-      "image": "artifact.jpg",
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/5d/53/31/5d5331465fe0135c613788dc955bc1be.jpg",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 36,
-      "comments": ["Incredible find!", "History comes alive."]
+      "verifiedVoteCount": 36
     },
     {
       "id": 19,
       "topic": "Viral Challenge Turns Dangerous",
-      "details": "A popular online challenge causes injuries among teenagers.",
+      "details": "A popular online challenge, which initially attracted millions of participants for its entertaining and social nature, has taken a dangerous turn, resulting in several injuries among teenagers. The challenge, involving risky physical stunts or behavior, quickly escalated beyond safe boundaries as participants sought to outdo each other on social media platforms. Medical authorities and schools have reported increased emergency room visits due to falls, fractures, and other accidents directly linked to the challenge. Parents and educators are raising alarms about the influence of viral trends on youth behavior, emphasizing the need for responsible digital citizenship and supervision. Social media companies have faced calls to regulate content promotion and remove harmful videos that encourage unsafe activities. Public health campaigns aim to inform teenagers about the risks and consequences associated with such challenges, promoting safer alternatives for fun and engagement. Youth advocates emphasize the importance of open communication and education to prevent peer pressure and impulsive actions. Law enforcement is monitoring the situation for potential legal issues connected to reckless behavior. Despite the allure of online fame, experts stress that safety must remain a priority, and community support is vital in curbing dangerous trends. This incident serves as a stark reminder of the powerful impact social media can have on adolescent decision-making and the ongoing need for awareness and intervention efforts.",
       "reporter": "Liam Johnson",
       "datetime": "2025-08-13T20:25:00Z",
-      "image": "viral-challenge.jpg",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DXkfNa0iWShzup8_79aqDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/9eedf6d0-5e3f-11ee-adbf-2ec7ec6fd6f8",
       "fakeVoteCount": 67,
-      "verifiedVoteCount": 3,
-      "comments": ["This is unsafe!", "People need to stop."]
+      "verifiedVoteCount": 3
     }
   ]
 }
