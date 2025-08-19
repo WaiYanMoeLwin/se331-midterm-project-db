@@ -8,7 +8,8 @@
       "datetime": "2025-08-01T09:15:00Z",
       "image": "https://bicyclenetwork.com.au/wp-content/uploads/2023/04/NCY-lanes-socials.png",
       "fakeVoteCount": 2,
-      "verifiedVoteCount": 45
+      "verifiedVoteCount": 45,
+      "status": 1
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "datetime": "2025-07-29T14:20:00Z",
       "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2023/03/chocolate-bar-foil.jpg",
       "fakeVoteCount": 5,
-      "verifiedVoteCount": 12
+      "verifiedVoteCount": 12,
+      "status": 2
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "datetime": "2025-08-10T11:45:00Z",
       "image": "https://www.pawsupdogs.com/wp-content/uploads/2019/03/five-dogs.jpg",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 88
+      "verifiedVoteCount": 88,
+      "status": 1
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "datetime": "2025-08-12T21:30:00Z",
       "image": "https://img.freepik.com/premium-photo/alien-ship-flies-modern-city-with-view-skyscrapers-visible-background_124507-157671.jpg",
       "fakeVoteCount": 73,
-      "verifiedVoteCount": 4
+      "verifiedVoteCount": 4,
+      "status": 0
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "datetime": "2025-08-05T10:05:00Z",
       "image": "https://m-cdn.phonearena.com/images/article/152814-wide-two_1200/Global-smartphone-sales-return-to-growth-in-October-breaking-two-year-losing-streak.jpg?1700647090",
       "fakeVoteCount": 1,
-      "verifiedVoteCount": 54
+      "verifiedVoteCount": 54,
+      "status": 1
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "datetime": "2025-08-14T08:00:00Z",
       "image": "https://cdn.mos.cms.futurecdn.net/rYmjBZRV6oW5cPryewDLDH-1920-80.jpg",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 35
+      "verifiedVoteCount": 35,
+      "status": 1
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "datetime": "2025-07-25T19:40:00Z",
       "image": "https://th.bing.com/th/id/R.7983548d47af62e8261f8ba41136b854?rik=z8owPG6UbH5y0w&riu=http%3a%2f%2fwww.theoldrobots.com%2fimages106%2fRestaurant_Robot-10.JPG&ehk=G2c9i426Is3OlH8EcMPAHw5PWU7wdKSA%2fqlTvyxmFhU%3d&risl=&pid=ImgRaw&r=0",
       "fakeVoteCount": 3,
-      "verifiedVoteCount": 9
+      "verifiedVoteCount": 9,
+      "status": 2
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "datetime": "2025-08-09T06:50:00Z",
       "image": "https://i2-prod.mirror.co.uk/incoming/article33674038.ece/ALTERNATES/s1200d/0_Oldest-cat-in-the-world-dies-aged-33.jpg",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 64
+      "verifiedVoteCount": 64,
+      "status": 1
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "datetime": "2025-08-02T15:25:00Z",
       "image": "https://static.businessinsider.com/image/5988dfee27fa6b4023425d09-750.jpg",
       "fakeVoteCount": 4,
-      "verifiedVoteCount": 20
+      "verifiedVoteCount": 20,
+      "status": 1
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "datetime": "2025-08-11T13:00:00Z",
       "image": "https://th.bing.com/th/id/R.0742e5e4051d50b412efbb62f9821b54?rik=Z3MZ2vGDB4eN3g&riu=http%3a%2f%2fimages.newsvend.info%2f143854-217952-2570.jpg&ehk=saOXJc9J2yGEsB%2f1IN5TRyIsQ%2fGAAgiB8fWd%2f3AbC1Q%3d&risl=&pid=ImgRaw&r=0",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 42
+      "verifiedVoteCount": 42,
+      "status": 1
     },
     {
       "id": 11,
@@ -108,7 +118,8 @@
       "datetime": "2025-08-07T22:10:00Z",
       "image": "https://studyfinds.org/wp-content/uploads/2023/10/AdobeStock_571631774-scaled.jpeg",
       "fakeVoteCount": 95,
-      "verifiedVoteCount": 1
+      "verifiedVoteCount": 1,
+      "status": 0
     },
     {
       "id": 12,
@@ -118,7 +129,8 @@
       "datetime": "2025-08-03T12:15:00Z",
       "image": "https://preview.thenewsmarket.com/Previews/ATFR/StillAssets/1920x1080/627757.jpg",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 33
+      "verifiedVoteCount": 33,
+      "status": 1
     },
     {
       "id": 13,
@@ -128,7 +140,8 @@
       "datetime": "2025-08-08T17:20:00Z",
       "image": "https://img.freepik.com/premium-photo/giant-robot-crowd-people-is-front-crowd_900775-7683.jpg?w=2000",
       "fakeVoteCount": 2,
-      "verifiedVoteCount": 11
+      "verifiedVoteCount": 11,
+      "status": 2
     },
     {
       "id": 14,
@@ -138,7 +151,8 @@
       "datetime": "2025-08-06T09:50:00Z",
       "image": "https://wattstor.com/wp-content/uploads/2024/01/Batter-energy-storage-systems.jpg",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 55
+      "verifiedVoteCount": 55,
+      "status": 1
     },
     {
       "id": 15,
@@ -148,7 +162,8 @@
       "datetime": "2025-08-04T07:30:00Z",
       "image": "https://dotcommagazine.com/wp-content/uploads/2023/06/emil-widlund-xrbbXIXAWY0-unsplash-scaled.jpg",
       "fakeVoteCount": 1,
-      "verifiedVoteCount": 29
+      "verifiedVoteCount": 29,
+      "status": 1
     },
     {
       "id": 16,
@@ -158,7 +173,8 @@
       "datetime": "2025-08-12T05:45:00Z",
       "image": "https://site.extension.uga.edu/climate/files/2017/06/modeling_future_rainfall-heavy-rain.jpg",
       "fakeVoteCount": 3,
-      "verifiedVoteCount": 8
+      "verifiedVoteCount": 8,
+      "status": 2
     },
     {
       "id": 17,
@@ -168,7 +184,8 @@
       "datetime": "2025-08-09T16:10:00Z",
       "image": "https://tse3.mm.bing.net/th/id/OIP.Uuo_upqEmRPoVW1FJpnL0wHaEd?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 48
+      "verifiedVoteCount": 48,
+      "status": 1
     },
     {
       "id": 18,
@@ -178,7 +195,8 @@
       "datetime": "2025-08-11T11:00:00Z",
       "image": "https://s-media-cache-ak0.pinimg.com/736x/5d/53/31/5d5331465fe0135c613788dc955bc1be.jpg",
       "fakeVoteCount": 0,
-      "verifiedVoteCount": 36
+      "verifiedVoteCount": 36,
+      "status": 1
     },
     {
       "id": 19,
@@ -188,7 +206,8 @@
       "datetime": "2025-08-13T20:25:00Z",
       "image": "https://s.yimg.com/ny/api/res/1.2/DXkfNa0iWShzup8_79aqDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/9eedf6d0-5e3f-11ee-adbf-2ec7ec6fd6f8",
       "fakeVoteCount": 67,
-      "verifiedVoteCount": 3
+      "verifiedVoteCount": 3,
+      "status": 0
     }
   ]
 }
