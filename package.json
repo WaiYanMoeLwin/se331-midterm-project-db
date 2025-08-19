@@ -7,6 +7,9 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WaiYanMoeLwin/se331-midterm-project-db.git"
@@ -18,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/WaiYanMoeLwin/se331-midterm-project-db/issues"
   },
-  "homepage": "https://github.com/WaiYanMoeLwin/se331-midterm-project-db#readme",
-  "dependencies": {
-    "json-server": "^0.17.0"
-  }
+  "homepage": "https://github.com/WaiYanMoeLwin/se331-midterm-project-db#readme"
 }
